@@ -4,3 +4,4 @@
 dotnet new razorcomponent -n Todo -o Pages  
 ## 建立類別 v1.01
 新增檔案 TodoItem.cs  
+## 繫結 TodoItems 的清單  v1.02
